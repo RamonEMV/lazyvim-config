@@ -1,7 +1,9 @@
 return {
+  "scottmckendry/cyberdream.nvim",
   {
-    "folke/tokyonight.nvim",
+    "LazyVim/LazyVim",
     opts = {
+      colorscheme = "cyberdream",
       transparent = true,
       styles = {
         sidebars = "transparent",
